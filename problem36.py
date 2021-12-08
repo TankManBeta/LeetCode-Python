@@ -47,7 +47,7 @@
 
 class Solution(object):
     @staticmethod
-    def is_valid(board):
+    def is_valid_sudoku(board):
         """
         :type board: List[List[str]]
         :rtype: bool
