@@ -3,49 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="013f026c-2eed-4d2e-80d4-d248e6422c14" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem1_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem10.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem10_hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem1034.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem1034_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem11.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem11_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem12.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem12_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem13.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem13_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem14.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem14_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem15.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem15_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem16.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem16_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem17.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem17_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem18.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem18_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem19.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem19_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem2.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem2_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem20.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem20_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem206.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem206_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem21.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem21_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem22.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem22_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem23.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem23_hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem24.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem24_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem25.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem25_hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem26.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem26_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem27.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem27_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem28.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem28_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem29.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem29_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem3.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem3_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem30.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem30_hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem31.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem31_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem32.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem32_hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem33.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem33_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem34.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem34_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem35.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem35_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem36.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem36_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem37.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem37_hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem38.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem38_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem383.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem383_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem39.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem39_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem4.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem4_hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem40.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem40_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem5.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem5_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem6.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem6_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem7.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem7_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem8.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem8_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem9.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem9_easy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem10_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem10_hard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,29 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.problem41_hard">
-    <configuration name="problem32_hard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\workspace\PycharmProjects\LeetCode\problem32_hard.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.problem911_medium">
     <configuration name="problem37_hard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,13 +123,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="problem911_medium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem911_medium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.problem911_medium" />
         <item itemvalue="Python.problem41_hard" />
         <item itemvalue="Python.problem40_medium" />
         <item itemvalue="Python.problem38_medium" />
         <item itemvalue="Python.problem37_hard" />
-        <item itemvalue="Python.problem32_hard" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +196,9 @@
       <workItem from="1639104559448" duration="2194000" />
       <workItem from="1639124387099" duration="884000" />
       <workItem from="1639194917257" duration="132000" />
+      <workItem from="1639203720316" duration="5818000" />
+      <workItem from="1639223598269" duration="66000" />
+      <workItem from="1639285364606" duration="89000" />
     </task>
     <servers />
   </component>
@@ -245,22 +206,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1639054507863">
+    <state width="1493" height="76" key="GridCell.Tab.0.bottom" timestamp="1639220705006">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1639054507863" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1639054507863">
+    <state width="1493" height="76" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1639220705006" />
+    <state width="1493" height="76" key="GridCell.Tab.0.center" timestamp="1639220705006">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1639054507863" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1639054507862">
+    <state width="1493" height="76" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1639220705006" />
+    <state width="1493" height="76" key="GridCell.Tab.0.left" timestamp="1639220705006">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1639054507862" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1639054507863">
+    <state width="1493" height="76" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1639220705006" />
+    <state width="1493" height="76" key="GridCell.Tab.0.right" timestamp="1639220705006">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639054507863" />
+    <state width="1493" height="76" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639220705006" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1639054507863">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -289,6 +250,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$problem6.coverage" NAME="problem6 Coverage Results" MODIFIED="1635469673845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$problem16.coverage" NAME="problem16 Coverage Results" MODIFIED="1638339975289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$problem40.coverage" NAME="problem40 Coverage Results" MODIFIED="1639036220511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$problem911_medium.coverage" NAME="problem911_medium Coverage Results" MODIFIED="1639204875958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$problem9.coverage" NAME="problem9 Coverage Results" MODIFIED="1635477373389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$problem30.coverage" NAME="problem30 Coverage Results" MODIFIED="1638608491667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$problem15.coverage" NAME="problem15 Coverage Results" MODIFIED="1638330100063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
