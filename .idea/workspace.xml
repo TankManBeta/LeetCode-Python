@@ -46,6 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BigData" />
   </component>
   <component name="RunManager" selected="Python.problem51_hard">
     <configuration name="problem1518_easy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -226,7 +227,9 @@
       <workItem from="1639988261949" duration="21000" />
       <workItem from="1640064486319" duration="151000" />
       <workItem from="1640073482130" duration="328000" />
-      <workItem from="1640238840074" duration="8242000" />
+      <workItem from="1640238840074" duration="8309000" />
+      <workItem from="1640439508726" duration="66000" />
+      <workItem from="1640515650236" duration="140000" />
     </task>
     <servers />
   </component>
@@ -234,42 +237,46 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1640244537888">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1640439572770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640244537888" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1640244537888">
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1640439572770" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1640248642520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1640244537888" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1640244537888">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640248642520" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1640248642520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1640244537888" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1640244537888">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1640248642520" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1640248642520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1640244537888" />
-    <state width="1493" height="368" key="GridCell.Tab.1.bottom" timestamp="1640244451415">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1640248642520" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1640248642520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="368" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640244451415" />
-    <state width="1493" height="368" key="GridCell.Tab.1.center" timestamp="1640244451415">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1640248642520" />
+    <state width="1493" height="368" key="GridCell.Tab.1.bottom" timestamp="1640248642520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="368" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1640244451415" />
-    <state width="1493" height="368" key="GridCell.Tab.1.left" timestamp="1640244451415">
+    <state width="1493" height="368" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640248642520" />
+    <state width="1493" height="368" key="GridCell.Tab.1.center" timestamp="1640248642520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="368" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1640244451415" />
-    <state width="1493" height="368" key="GridCell.Tab.1.right" timestamp="1640244451415">
+    <state width="1493" height="368" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1640248642520" />
+    <state width="1493" height="368" key="GridCell.Tab.1.left" timestamp="1640248642520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="368" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1640244451415" />
-    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1640245284264">
+    <state width="1493" height="368" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1640248642520" />
+    <state width="1493" height="368" key="GridCell.Tab.1.right" timestamp="1640248642520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1640245284264" />
+    <state width="1493" height="368" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1640248642520" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1640515761189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1640515761189" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$problem32.coverage" NAME="problem32 Coverage Results" MODIFIED="1638623677884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
