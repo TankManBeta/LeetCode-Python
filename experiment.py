@@ -5,7 +5,7 @@
     @Date 2021/12/4 16:59
 """
 s = "barfoothefoobarman"
-words = ["foo","bar"]
+words = ["foo", "bar"]
 len_words = len(words)
 len_word = len(words[0])
 len_window = len(words) * len(words[0])
