@@ -38,11 +38,11 @@ class Solution(object):
         :rtype: str
         """
         amount = num_rows * 2 - 2
-        string_list = ["" for i in range(num_rows)]
+        string_list = ["" for _ in range(num_rows)]
         if num_rows == 1:
             return s
         for i in range(0, len(s), amount):
-            substring = s[i : i+amount]
+            substring = s[i: i+amount]
             for index, value in enumerate(substring[0:num_rows]):
                 string_list[index] += value
             for index, value in enumerate(substring[num_rows:]):
