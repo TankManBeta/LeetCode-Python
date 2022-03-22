@@ -7,10 +7,10 @@
 """
 给定两个整数数组preorder和inorder，其中preorder 是二叉树的先序遍历，inorder是同一棵树的中序遍历，请构造二叉树并返回其根节点。
 
-输入: pre_order = [3,9,20,15,7], inorder = [9,3,15,20,7]
+输入: pre_order = [3,9,20,15,7], in_order = [9,3,15,20,7]
 输出: [3,9,20,null,null,15,7]
 
-输入: pre_order = [-1], inorder = [-1]
+输入: pre_order = [-1], in_order = [-1]
 输出: [-1]
 """
 """

@@ -7,10 +7,10 @@
 """
 给定两个整数数组inorder和postorder，其中inorder是二叉树的中序遍历，postorder是同一棵树的后序遍历，请你构造并返回这颗二叉树。
 
-输入：inorder = [9,3,15,20,7], postorder = [9,15,7,20,3]
+输入：in_order = [9,3,15,20,7], postorder = [9,15,7,20,3]
 输出：[3,9,20,null,null,15,7]
 
-输入：inorder = [-1], postorder = [-1]
+输入：in_order = [-1], postorder = [-1]
 输出：[-1]
 """
 """
