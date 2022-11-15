@@ -16,7 +16,7 @@
 """
 """
 思路：尝试在 number 后面附加一个零，即 number×10，如果 number×10≤n，那么说明 number×10 是下一个字典序整数；
-如果 number%10=9 或 number+1>n，那么说明末尾的数位已经搜索完成，退回上一位，即number=number//10，然后继续判断直到number%10=9
+如果 number%10=9 或 number+1>n，那么说明末尾的数位已经搜索完成，退回上一位，即number=number//10，然后继续判断直到number%10!=9
 且 number+1≤n 为止，那么number+1 是下一个字典序整数。
 """
 
