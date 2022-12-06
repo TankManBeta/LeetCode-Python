@@ -7,12 +7,18 @@
 
 
 def gcd(a, b):
-    m, n = max(a, b), min(a, b)
-    for i in range(n, 0, -1):
-        if m % i == 0 and n % i == 0:
-            return i
-    return 1
+    if a < b:
+        a, b = b, a
+    if 0 == b:
+        return a
+    if a % 2 == 0 and b % 2 == 0:
+        return 2 * gcd(a//2, b//2)
+    if a % 2 == 0:
+        return gcd(a // 2, b)
+    if b % 2 == 0:
+        return gcd(a, b // 2)
+    # 传统Stein算法
+    return gcd(a-b, b)
+    # 改进Stein算法（某些情况下可以降低复杂度）
+    # return gcd((a + b) // 2, (a - b) // 2)
 
-
-a = gcd(2, 12)
-print(a)
