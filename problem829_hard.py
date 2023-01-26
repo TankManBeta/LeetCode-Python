@@ -23,5 +23,23 @@
 解释: 15 = 8 + 7 = 4 + 5 + 6 = 1 + 2 + 3 + 4 + 5
 """
 """
-思路：
+思路：如果 k 是奇数，则当 n 可以被 k 整除时，正整数 n 可以表示成 k 个连续正整数之和；如果 k 是偶数，则当 n 不可以被 k 整除且 
+2n 可以被 k 整除时，正整数 n 可以表示成 k 个连续正整数之和。
 """
+
+
+class Solution:
+    @staticmethod
+    def consecutiveNumbersSum(n: int) -> int:
+        def isKConsecutive(n: int, k: int) -> bool:
+            if k % 2:
+                return n % k == 0
+            return n % k and 2 * n % k == 0
+
+        ans = 0
+        k = 1
+        while k * (k + 1) <= n * 2:
+            if isKConsecutive(n, k):
+                ans += 1
+            k += 1
+        return ans
