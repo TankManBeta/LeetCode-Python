@@ -37,7 +37,7 @@ class Solution:
 
         for c in s:
             if c not in seen:
-                while stack and c < stack[-1] and  remain_counter[stack[-1]] > 0:
+                while stack and c < stack[-1] and remain_counter[stack[-1]] > 0:
                     seen.discard(stack.pop())
                 seen.add(c)
                 stack.append(c)
