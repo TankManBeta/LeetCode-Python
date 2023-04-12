@@ -42,8 +42,8 @@ class Solution(object):
         left = 0
         right = list_len - 1
         while left < right:
-            list_height = height[left] if height[left]<height[right] else height[right]
-            volume = (right-left)*list_height
+            list_height = height[left] if height[left] < height[right] else height[right]
+            volume = (right - left) * list_height
             max_volume = volume if volume > max_volume else max_volume
             if height[left] < height[right]:
                 left += 1
